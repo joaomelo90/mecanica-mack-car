@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+ 
+ }
+ body {
+    background-color:black;
+ }
+ .tudo {
+    width: 90vw;
+    height: 90vh;
+    position: absolute;
+    margin: 0 0 0 30px;
+ }
+ 
+ #lg {
+    position: static;
+    margin: 80vh 0 0 70vh;
+    height: 500px;
+    width: 500px;
+    z-index: -2;
+ }
+ .logo-one {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 0 0 0 5vw;
+    border-radius: 100px;
+ }
+ .list {
+    margin: -9vw 50vh 0 10vw;
+    color: white;
+    position: relative;
+    background-color: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+ }
+ 
+ ul {
+    display: flex;
+    gap: 100px;
+    list-style: none;
+    margin-left: 100px;
+ }
+ 
+ .li {
+    margin-right: 4vw;
+    cursor: pointer;
+ }
+ .especialidade{
+    font-size: 50px;
+    position: relative;
+    color: white;
+  font-weight: bolder;  
+  margin: 90px 0 0 335px;
+  letter-spacing: 27px;
+ }
+ 
+ section{
+   margin-top: 40vw;
+   align-items: center;
+ }
+ .slideshow {
+   position: relative;
+   height: 100vw;
+   height: 40vh;
+ }
+ 
+ .slide {
+   display: none;
+
+ }
+ 
+ .slide img {
+   width: 40%;
+   height: auto;
+   position: absolute;
+ }
+ 
+ .slide p {
+   text-align: center;
+ }
+ 
+ .prev,
+ .next {
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   color: white;
+   font-size: 30px;
+   cursor: pointer;
+ }
+ 
+ .prev {
+   left: 10px;
+ }
+ 
+ .next {
+   right: 10px;
+ }
+ .velas, .oleo, .aferrecimento, .pivoEbatente, .suspencao, .imgMangueira, .imgCorreia,
+ .imgFreio, .imgMotor{
+  margin: 0 0 0 40px ;
+  
+}
+ .trocaVelas, .trocaOleo, .sistema, .pivo, .mola, .mangueiras, .correia,
+ .freio, .motor{
+  position: relative;
+  text-align: center;
+  width: 50vw;
+  color: white;
+margin: 0 0 100vh 45vw;
+font-size: 30px;
+ }
+ .footer{
+  background-color:#c0c0c0 ;
+  width: 100vw;
+  height: 20vh;
+  margin: 10vw 0 0 0;
+ }
+ 

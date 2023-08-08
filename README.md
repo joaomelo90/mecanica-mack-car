@@ -1,6 +1,6 @@
 # mack-car
 
-<p>O projeto "Mack Car" é um website de uma oficina mecânica fictícia, criado utilizando as tecnologias web HTML, CSS e JavaScript. O objetivo deste projeto é fornecer aos clientes da oficina uma plataforma online intuitiva e responsiva..</p><br><br>
+<p>O projeto "Mack Car" é um website de uma oficina mecânica, criado utilizando as tecnologias web HTML, CSS e JavaScript. O objetivo deste projeto é fornecer aos clientes da oficina uma plataforma online intuitiva e responsiva..</p><br><br>
 <p>Responsividade: O website será desenvolvido com foco na responsividade, ou seja, ele se adaptará automaticamente a diferentes tamanhos de tela, garantindo uma experiência de navegação agradável tanto em computadores quanto em dispositivos móveis.</p><br><br>
 <p>Tecnologias Utilizadas:<br>
 

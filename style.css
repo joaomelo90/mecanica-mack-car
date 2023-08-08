@@ -1,0 +1,237 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'DM Sans', sans-serif;
+
+}
+
+body {
+   background-color: black;
+}
+
+.container {
+   position: relative;
+}
+
+.tudo {
+   width: 90vw;
+   height: 90vh;
+   position: absolute;
+   margin: 0 0 0 30px;
+}
+
+#lg {
+   position: static;
+   margin: 80vh 0 0 70vh;
+   height: 500px;
+   width: 500px;
+   z-index: -2;
+}
+
+#ferramenta {
+   position: static;
+   margin: -60vh 0px 0vh 5vw;
+
+}
+
+#ferramenta-one {
+   position: static;
+   margin: -160vw 0 0 50vh;
+}
+
+.logo-one {
+   position: relative;
+   width: 150px;
+   height: 150px;
+   margin: 0 0 0 14vw;
+   border-radius: 100px;
+}
+
+.list {
+   margin: -10vw 50vh 0 30vw;
+   color: white;
+   position: relative;
+   background-color: initial;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+ul {
+   display: flex;
+   gap: 100px;
+   list-style: none;
+   margin-left: 100px;
+}
+
+.li {
+   margin-right: 4vw;
+   cursor: pointer;
+}
+
+.paragraph-one {
+   color: white;
+   font-size: 30px;
+   text-align: center;
+   margin: -10vw 0;
+   line-height: 1.9;
+}
+
+#box-color {
+   background-color: brown;
+   width: 100vw;
+   height: 800px;
+   margin-top: 200px;
+}
+
+.mecanica-geral {
+   color: white;
+   text-align: center;
+   margin: 175px 0 0 20px;
+   position: absolute;
+   font-size: 20px;
+   width:600px;
+}
+
+.motor-bm {
+   width: 170px;
+   border-radius: 100px;
+   position: absolute;
+   margin: 30px 0 0 230px;
+}
+#oleo{
+   width: 170px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -520px 0 0 230px;
+}
+.troca-oleo{
+   color: white;
+   text-align: center;
+   margin: -380px 0 0 20px;
+   position: absolute;
+   font-size: 20px;
+   width:600px;
+}
+
+#img-freio{
+   width: 170px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -300px 0 0 230px; 
+}
+
+.freio{
+   color: white;
+   text-align: center;
+   margin: -150px 0 0 20px;
+   position: absolute;
+   font-size: 20px;
+   width:600px;
+}
+.mecanico-img{
+   position:absolute;
+   width: 400px;
+   margin: -530px 0 0 900px;
+}
+.suspensao{
+   color: white;
+   text-align: center;
+   margin: -630px 0 0 790px;
+   position: absolute;
+   font-size: 20px;
+   width:600px;
+}
+.imgsuspensão{
+   width: 170px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -770px 0 0 999px; 
+
+}
+.visita{
+   color: white;
+   text-align: center;
+   margin: 100px 0 0 40vh;
+   position: absolute;
+   font-size: 20px;
+   width:900px;
+   font-size: 30px;
+   line-height: 1.9;
+}
+.footer{
+   background-color:#c0c0c0 ;
+   width: 100vw;
+   height: 50vh;
+   margin: 55vw 0 0 0;
+}
+.zap{
+   width: 100px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -23vw 0 0 10vh;    
+}
+.insta{
+   width: 100px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -15vw 0 0 10vh; 
+}
+.tel{
+   width: 100px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -7vw 0 0 10vh; 
+}
+.number-zap{
+   color:black;
+   margin: -21vw 0 0 30vh; 
+   position: absolute;
+   font-size: 30px;
+font-weight: 800;
+}
+.insta-p{
+   margin: -13vw 0 0 30vh; 
+   position: absolute;
+   font-size: 30px;
+   font-weight: 800;
+}
+.tel-p{
+   margin: -5vw 0 0 30vh; 
+   position: absolute;
+   font-size: 30px;
+   font-weight: 800;
+}
+.local{
+   margin: -8vw 0 0 110vh; 
+   position: absolute;
+   font-size: 30px;
+   font-weight: 800;
+   text-align: center;
+}
+.localgif{
+   width: 100px;
+   border-radius: 100px;
+   position: absolute;
+   margin: -15vw 0 0 140vh; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

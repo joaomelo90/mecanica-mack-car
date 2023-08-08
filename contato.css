@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;}
+
+    body {
+        background-color: black; 
+     }
+     .list {
+      
+        color: white;
+        position: relative;
+        background-color: initial;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+     }
+     
+     ul {
+        display: flex;
+        gap: 100px;
+        list-style: none;
+        margin-left: 100px;
+     }
+     
+     .li {
+        margin-right: 4vw;
+        cursor: pointer;
+     }
+     .zap{
+        position: absolute;
+      margin: 23vh 0 0 10vw; 
+      width: 10vw; 
+     }
+     .insta{
+        position:relative;
+        margin: 50vh 0 0 10vw;
+        width: 10vw;
+     }
+     .tel{
+        width: 10vw;
+        position: absolute;
+        margin: 7vh 0 0 10vw;
+        
+     }
+
+     .localgif{
+        position:absolute;
+        margin: -60vh 0 0 60vw;
+        width: 20vw;
+     }
+     
