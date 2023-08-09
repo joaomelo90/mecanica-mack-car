@@ -17,6 +17,26 @@
         justify-content: center;
         height: 100%;
      }
+     .box{
+      background-color: brown;
+      width: 100%;
+      height: 30vh;
+      position:absolute;
+     }
+     .logo{
+      width: 10vw;
+      border-radius: 100px 100px;
+      margin: 3vh 0 0 10vw;
+      position: absolute;
+      z-index: 1;
+     }
+     .title{
+      color: white;
+      margin: 4vw 0 0 50vh;
+      position: absolute;
+      z-index: 1;
+      font-size: 60px;
+     }
      
      ul {
         display: flex;
@@ -31,24 +51,69 @@
      }
      .zap{
         position: absolute;
-      margin: 23vh 0 0 10vw; 
+      margin: 32vh 0 0 10vw; 
       width: 10vw; 
+     }
+     .number-zap{
+      color: white;
+      margin: 40vh 0 0 23vw;
+      position: absolute;
+      font-size: 40px;
      }
      .insta{
         position:relative;
-        margin: 50vh 0 0 10vw;
+        margin: 58vh 0 0 10vw;
         width: 10vw;
      }
-     .tel{
+     .instagram{
+      color: white;
+      margin: -15vh 0 0 23vw;
+      position: absolute;
+      font-size: 30px;
+     }
+     .tel_img{
         width: 10vw;
         position: absolute;
-        margin: 7vh 0 0 10vw;
+        margin: 85vh 0 0 -10vw;
         
+     }
+     .tel{
+      color: white;
+      margin: 15vh 0 0 23vw;
+      position: absolute;
+      font-size: 30px;
      }
 
      .localgif{
         position:absolute;
-        margin: -60vh 0 0 60vw;
+        margin: 20vh 0 0 40vw;
         width: 20vw;
      }
-     
+     .mapa{
+      margin: -25vh 0 0 60vw;
+     }
+     .local{
+      color: white;
+      margin: 14vh 0 0 55vw;
+      position: absolute;
+      font-size: 30px;
+      text-align: center;
+     }
+
+     .end{
+      background-color: brown;
+      width: 100%;
+      height: 20vh;
+     margin: 20vh 0 0 0;
+      position:absolute;
+      
+     }
+     .hora, .seg{
+      color: white;
+      position: relative;
+      background-color: initial;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+     }

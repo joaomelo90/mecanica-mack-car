@@ -30,7 +30,7 @@
     border-radius: 100px;
  }
  .list {
-    margin: -9vw 50vh 0 10vw;
+    margin: -9vw 50vh 0 18vw;
     color: white;
     position: relative;
     background-color: initial;
@@ -56,7 +56,7 @@
     position: relative;
     color: white;
   font-weight: bolder;  
-  margin: 90px 0 0 335px;
+  margin: 90px 0 0 360px;
   letter-spacing: 27px;
  }
  
@@ -117,9 +117,20 @@ margin: 0 0 100vh 45vw;
 font-size: 30px;
  }
  .footer{
-  background-color:#c0c0c0 ;
-  width: 100vw;
+  background-color: brown;
+  width: 100%;
   height: 20vh;
-  margin: 10vw 0 0 0;
+ margin: 20vh 0 0 0;
+  position:absolute;
+ }
+ .hora, .seg{
+  color: white;
+  position: relative;
+  background-color: initial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 0 20vh;
+  
  }
  
